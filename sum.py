@@ -1,6 +1,6 @@
 #sum between two numbers
 numbera = int(input("First number: "))
-numberb = int(input("Second number: "))
+numberb = int(input("Third number: "))
 
 sum = numbera+numberb
 
